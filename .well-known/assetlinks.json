@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "me.kyle.learn.webviewtest",
+    "package_name": "me.kylelyk.webviewtest",
     "sha256_cert_fingerprints":
-    ["84:FE:92:18:A3:E6:5D:42:1E:0E:65:1A:14:A3:13:70:34:58:76:07:3E:7A:F1:74:E0:EA:71:88:68:D9:91:7C"]
+    ["26:C2:1C:17:AF:F3:7B:B0:71:BD:44:BF:84:FA:B6:7A:64:79:A6:1A:CD:21:11:D4:A2:22:EB:B7:2D:F1:B1:F1"]
   }
 }]
